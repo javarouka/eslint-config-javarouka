@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "javarouka js conventions rules for eslint",
   "main": "index.js",
+  "author": { "name": "javarouka", "email": "javarouka@gmail.com", "url": "http://javarouka.github.io/" },
   "dependencies": {
     "eslint": "^3.16.0",
     "babel-eslint": "7.1.1",
